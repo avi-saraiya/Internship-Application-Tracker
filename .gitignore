@@ -1,3 +1,7 @@
+# Local planning / agent context (kept out of the public repo)
+CLAUDE.md
+PROJECT_PLAN.md
+
 # Secrets / env
 .env
 .env.*

@@ -1,6 +1,6 @@
 # Internship Application Tracker
 
-A full-stack web app for tracking software-engineering internship applications through the recruiting pipeline. It is built as a production-style portfolio project. See [`PROJECT_PLAN.md`](PROJECT_PLAN.md) for the full roadmap.
+A full-stack web app for tracking software-engineering internship applications through the recruiting pipeline. It is built as a production-style portfolio project and developed incrementally, version by version.
 
 **Current status:** MVP. Accounts (register/login/logout), per-user application CRUD, and a dashboard with status counts.
 
